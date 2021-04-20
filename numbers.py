@@ -1,0 +1,7 @@
+print('arithmetic expression:', (1+2)*3/4)
+print('floor division', 5 // 4)
+print('modulo:', 5 % 4)
+print('power:', 2 ** 8)
+print('power:', 2 ** 0.5)
+print('arbitrary int length:', 99 ** 99)
+print('complex:', (3+4j)*(1+1j))
